@@ -4,6 +4,7 @@
 
 <script lang="ts">
 import Vue from 'vue';
+// comment
 
 export default Vue.extend({
   name: 'IndexPage',
